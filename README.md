@@ -1,2 +1,2 @@
-# phyiscs-test
-using matter.js to create a bouncing object
+# staticSquare
+A static square made using Matter.js physics engine
